@@ -1,0 +1,11 @@
+.go{
+    color: red;
+    background-color: linear-gradient(red,blue,green);
+    background-size: 0px 5px;
+    position: absolute;
+    left: 60px;
+    right: 60px;
+    top: 0px;
+    bottom: 0px;
+    
+}
